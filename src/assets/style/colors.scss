@@ -1,0 +1,27 @@
+/* You have to name the colors
+ * Check this out: http://chir.ag/projects/name-that-color/#EFEBE9
+ */
+
+/* Define the colors */
+$color-white: #FFF;
+$color-brilliant-rose: #ED61B8;
+$color-black87: rgba(0, 0, 0, 0.87);
+$color-black50: rgba(0, 0, 0, 0.5);
+
+/* Generic */
+$color-page-background: $color-brilliant-rose;
+
+$color-toolbar-background: $color-black87;
+
+/* Cards */
+$color-card-background: $color-white;
+$color-entry-dates:     $color-white;
+$color-avatar-border:   $color-ebb;
+$color-divider:         $color-ebb;
+
+/* Typography */
+$color-light-text:      $color-white;
+$color-dark-text:       $color-black87;
+$color-subtle-text:     $color-black50;
+
+$color-footer-background: $color-white;
